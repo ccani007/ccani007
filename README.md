@@ -13,4 +13,4 @@
 - 👯 I’m looking to collaborate on projects related to suicidality in adolescents 
 - 📫 How to reach me: email me at FIU, ccani007@fiu.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Fulbright scholar from Colombia and my Spanish keyboard does not have a ~, so coding is fun!!
+- ⚡ Fun fact: Fulbright scholar from Colombia 
