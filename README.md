@@ -7,10 +7,10 @@
   - Evaluating the effectiveness of a psychological first aid training program for first responders in Miami Dade
   - Curating the data to evaluate the predictive validity of a psychometric instrument that measures group engagement in group therapy
   - Establishing an organized network of clinical psychologists in Colombia
-  - My comprehensive exams to candidacy (two papers: Systematic Review on Inteverventions for suicide in LATAM & Literature Review in Evidence Based Practice in Social Work)
+
   
 - 🌱 I’m currently learning Data Science, Reproducible Research with RMarkdown, and Machine Learning
 - 👯 I’m looking to collaborate on projects related to suicidality in adolescents 
 - 📫 How to reach me: email me at FIU, ccani007@fiu.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Fulbright scholar from Colombia 
+- ⚡ Fun fact: Fulbright scholar from Colombia and just got my candidacy
