@@ -13,4 +13,4 @@
 - 📫 How to reach me: email me at FIU, ccani007@fiu.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Fulbright scholar from Colombia
-- Visit my [website](https://ccani007.github.io/ccani_website/) 
+- 📝 Visit my [website](https://ccani007.github.io/ccani_website/) 
