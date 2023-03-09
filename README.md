@@ -14,3 +14,5 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Fulbright scholar from Colombia
 - 📝 Visit my [website](https://ccani007.github.io/ccani_website/) 
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-dog&psig=AOvVaw06mabqnkwgcwmVcclc1pwF&ust=1678482756844000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDm49Xhz_0CFQAAAAAdAAAAABAD)
