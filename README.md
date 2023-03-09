@@ -12,4 +12,5 @@
 - 👯 I’m looking to collaborate on projects related to suicidality in adolescents 
 - 📫 How to reach me: email me at FIU, ccani007@fiu.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Fulbright scholar from Colombia 
+- ⚡ Fun fact: Fulbright scholar from Colombia
+- Visit my [website](https://ccani007.github.io/ccani_website/) 
