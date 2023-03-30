@@ -4,7 +4,7 @@
 
   - Curating big data from FEMA, GTD, and YRBS to explore the effects of mass casualties in adolescent suicidality
   - Exploring the impact of multiple risky behaviors on adolescent suicidality with the YRBS
-  - Curating the data to evaluate the predictive validity of a psychometric instrument that measures group engagement in group therapy
+  - Exploring risk factors associated with hoplessness in adolescents
   - Exploring the risk factors associated with negative affectivity in adults
  
   
