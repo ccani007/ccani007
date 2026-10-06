@@ -13,7 +13,7 @@
       * Machine learning and AI applications in behavioral science
 
 - 🏛️ Assistant Professor, Department of Psychology, Universidad de los Andes (Colombia)
-- 📫 How to reach me: email me at cc9082@nyu.edu
+- 📫 How to reach me: email me at c.canizares54@uniandes.edu.co
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a Fulbright Scholar from Colombia and enjoy building bridges between developmental science, public health, and data science
 - 📝 Visit my website: https://ccani007.github.io/ccani_website/
